@@ -1,1 +1,1 @@
-print("Tuan Anh dep trai")
+print("Tuan Anh gay")
